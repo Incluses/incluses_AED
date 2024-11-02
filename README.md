@@ -109,5 +109,3 @@ Os dados tratados foram salvos no arquivo `incluses_tratado.xlsx` para ser usado
 ### Feito por
 
 [Luca Almeida Lucareli](https://github.com/LucaLucareli)
-
-[Olivia Farias Domingues](https://github.com/oliviaworks)
